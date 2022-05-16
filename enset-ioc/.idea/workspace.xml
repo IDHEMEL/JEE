@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dde004d1-4c10-4d40-8806-70768bd89d25" name="Changes" comment="first" />
+    <list default="true" id="dde004d1-4c10-4d40-8806-70768bd89d25" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enset-ioc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enset-ioc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/dao/DaoImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/dao/IDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/metier/IMetier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/metier/MetierImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/presentation/Pres2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/presentation/Presentation1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/presentation/PresentationWithAnnotations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/presentation/PresentationWithSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dao/DaoImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dao/IDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/metier/IMetier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/metier/MetierImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/presentation/Pres2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/presentation/Presentation1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/presentation/PresentationWithAnnotations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/presentation/PresentationWithSpring.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +96,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652728247396</updated>
-      <workItem from="1652728248755" duration="755000" />
+      <workItem from="1652728248755" duration="986000" />
+      <workItem from="1652729359284" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1652728777201</created>
@@ -73,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652728972457</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first">
+      <created>1652729061992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652729061992</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +136,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
